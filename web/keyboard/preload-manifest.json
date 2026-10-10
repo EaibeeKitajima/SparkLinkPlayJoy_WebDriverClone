@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "productId": "keyboard",
+  "resources": [
+    {
+      "type": "style",
+      "url": "/keyboard/css/auth-ml8hxXla-CnYTU9MA.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/input-number-CYUK8Zwx.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/input-ZTOoTrH9.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/layout-BDGCKNIP.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/locale-Cge_-SHK.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/main-CXLt3FHA.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/slider-CCbDu2qu.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/slider-number-gdtG9T10.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/svg-icon-CRiBOz7e.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/switch-BlRXs8f5.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboard/css/text-switch-x1XGuNl0.css"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/_plugin-vue_export-helper-BDNMzG2s.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/auth-ml8hxXla-CpSEG2_6.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/chevron-left-3UghGYeD.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/dep-54d936f6-Dh8rZX6Z.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/dialog-C-xIqloY.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/fake-arrow-C8Rg-DpN.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/filter-key-BvqXXt57.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/iconfont-Pg9HNsYt.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/input-CkV2kP5M.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/input-number-HxZWRx-W.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/keyboard-r5WkjY3u.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/keyboardUiEmitter-BPXIZSDN.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/layout-C56uU4Q8.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/locale-DmD0egYz.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/main-DjX7mXN9.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/pinia-BX093hov.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/rolldown-runtime-B0Z9INg1.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/slider-BoyjcUqW.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/slider-number-CDuft8EE.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/svg-icon-gx1JbOmo.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/switch-B0jP-hbc.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/text-switch-CqhUuJCL.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/utils-COKPvNS1.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/vue-core-CmTRiEKg.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/vue-i18n-DkHRFZ_g.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/vue-router-C7TUaHrd.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboard/js/wallpaper-CDSuXu0X.js"
+    }
+  ]
+}

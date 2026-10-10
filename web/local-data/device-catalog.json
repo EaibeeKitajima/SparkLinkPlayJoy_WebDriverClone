@@ -1,0 +1,4608 @@
+{
+  "7334-5380": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12289": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17409": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14337": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-259": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1297": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2068": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2100": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2570": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7939": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9475": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15361": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15873": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    },
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-16385": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-16642": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-16897": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1319": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6917": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-260": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14081": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1321": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10450": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6664": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2310": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2309": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17410": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7178": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6922": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7172": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12290": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17675": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7180": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11276": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17672": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-779": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-261": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7183": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12291": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-5384": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11272": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-10242": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2147": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17155": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11275": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6921": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7683": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7184": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1333": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13571": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14082": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1330": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12294": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14852": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6924": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6920": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6923": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2104": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10461": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17692": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7188": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17413": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10465": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17689": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    },
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11273": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10462": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7185": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7187": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7189": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-18179": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14621-8194": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1033": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10012": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17682": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19459": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6928": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11274": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6929": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2316": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17690": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-5382": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7192": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17673": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7193": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6927": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14603": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1335": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9473": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21761": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17680": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7684": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7194": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19969": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15627": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10485": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10486": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21509": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11277": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11278": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2319": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2317": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22017": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12295": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15624": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13572": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13573": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2121": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6931": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10033": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11282": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15625": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11279": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1032": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-23041": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15626": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7199": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6932": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22529": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-20481": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12296": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11283": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11284": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21249": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14612": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22273": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21510": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15628": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-18434": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7200": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6666": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14854": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17696": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-5383": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19204": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22785": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6405": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14604": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22788": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9220": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14614": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2318": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14598": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24577": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9223": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2323": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12034": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2320": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-4869": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12035": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12036": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2322": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17701": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24065": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2311": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9219": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    },
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12298": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25601": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2324": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13575": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13576": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9221": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11288": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11289": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11291": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11290": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10479": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17702": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12297": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26625": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7204": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10030": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10032": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixin",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2326": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2327": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13574": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-5388": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21511": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21513": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17154": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14005-30162": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9222": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26881": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11292": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11293": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15629": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25346": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10503": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10031": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2140": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14857": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2329": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26113": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-5640": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27393": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28161": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21515": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6667": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7211": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21517": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21516": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "31080-28672": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14602": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2330": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14596": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25857": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10498": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2595": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2596": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10499": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14339": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28417": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2143": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1344": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14617": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10502": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1346": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3588": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13579": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13580": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28418": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1342": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "12851-9733": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10500": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-5389": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27139": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13578": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-781": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10501": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2328": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10029": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1341": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7215": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10051": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1338": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27905": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10028": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22789": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12299": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-23042": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21519": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13577": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7212": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17705": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3851": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14624": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14623": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14610": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15631": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28163": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2158": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28162": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7216": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27906": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-4359": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7221": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25859": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2156": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21518": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7218": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7220": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6668": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27394": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26371": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1347": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1339": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "12851-9734": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17704": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11298": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1345": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6669": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25858": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17706": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29185": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28166": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7217": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15633": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28674": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29953": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25860": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25862": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2332": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14859": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27395": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "12851-9730": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "12851-9732": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2155": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7227": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15632": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25347": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7219": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11296": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "12851-9731": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7226": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1349": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7229": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7228": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22531": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-20483": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-20484": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19205": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11010": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29697": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25863": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22530": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28167": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29186": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29187": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29954": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29188": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3589": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7214": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1348": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-782": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21521": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7224": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7685": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11300": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28164": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    },
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11267": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-783": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28165": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7210": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2333": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15635": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    },
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11297": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "12851-9729": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7231": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1329": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1324": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24068": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1354": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17708": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6670": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11303": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21522": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9730": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10068": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-31233": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11304": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2151": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14630": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14629": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "6127-25345": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2152": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26627": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-31234": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7232": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-4360": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10506": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-8708": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27140": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10053": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14340": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7203": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14574-54": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    },
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "11720-8303": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6671": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11265": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11301": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24071": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9990": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14574-55": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11302": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6672": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1355": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7234": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14631": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14632": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14633": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14634": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14635": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14636": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-31489": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10505": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24067": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19464": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10514": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6925": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29442": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-784": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22790": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-31490": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22532": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19465": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19466": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22786": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14005-30164": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1356": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7235": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19469": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26373": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-30465": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28419": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-30212": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7237": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-32513": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-32001": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-32515": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7239": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "15522-2604": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27651": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-785": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14707-262": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    },
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24072": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21525": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21524": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27652": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19207": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7942": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-33025": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14707-265": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24075": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11306": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11305": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-32257": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24074": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1357": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9991": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26628": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7240": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7241": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14707-261": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-32514": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14757-24081": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27144": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21532": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21251": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22791": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21529": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9993": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3857": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3856": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3855": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22534": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21533": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21534": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21535": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21536": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22792": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14757-24082": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-4361": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28422": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7244": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12037": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1360": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7243": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1543": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21531": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-4870": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-13581": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21528": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21530": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1358": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26629": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-32516": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12301": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "shuangzixinAndPublic",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15636": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "13002-10473": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "12625-16400": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22536": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-30978": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21538": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21537": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6673": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-11307": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-34817": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14707-264": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26632": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22794": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22795": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-34305": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28930": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14639": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25602": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-19470": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-29191": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-30722": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24078": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9992": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-31493": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-34049": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7246": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10083": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6675": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1364": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7245": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-31492": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28421": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-31235": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12303": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1362": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-9994": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-30723": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-33282": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-34561": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1361": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-20993": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7248": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-12302": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22793": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24578": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-28423": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-22535": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6937": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-1359": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21539": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-35073": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27653": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-30979": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6919": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10464": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10448": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10449": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14108-53249": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10459": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14108-53250": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7186": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17671": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14851": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-14853": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-15622": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17679": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14108-53251": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10463": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-21505": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10480": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10481": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14502-10482": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-26369": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-2321": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-24833": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-25345": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-17703": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-6933": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7213": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7223": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14108-53252": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7230": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14108-49153": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "14108-61441": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27649": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "14108-57345": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3852": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3853": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-3854": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27141": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-27142": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "7334-7242": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "other",
+      "protocol_version": "v2"
+    }
+  ],
+  "15522-2606": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v3"
+    }
+  ],
+  "15522-29189": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v3"
+    }
+  ],
+  "15522-2607": [
+    {
+      "usagePage": "0xffb0",
+      "usage": "0x01",
+      "type": "public",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-3843": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "0300F003",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-3841": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "0300F001",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-2561": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "0300A001",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-1026": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "03004001",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-2050": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "03008002",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "6493-4152": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS152",
+      "board_id": "00011",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "6493-4153": [
+    {
+      "target_id": "5",
+      "microchip_id": "XS152",
+      "board_id": "00011",
+      "type": "receiver_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-2817": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS147",
+      "board_id": "q11111",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    },
+    {
+      "target_id": "5",
+      "microchip_id": "XS147",
+      "board_id": "q11111",
+      "type": "receiver_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-2562": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "0300A002",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-4097": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "03010001",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-3329": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "0300D001",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    },
+    {
+      "target_id": "5",
+      "microchip_id": "XS213",
+      "board_id": "0300D001",
+      "type": "receiver_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-3585": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "0300E001",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-514": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "03002002",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    },
+    {
+      "target_id": "5",
+      "microchip_id": "XS147",
+      "board_id": "03002002",
+      "type": "receiver_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ],
+  "15523-3331": [
+    {
+      "target_id": "3",
+      "microchip_id": "XS215",
+      "board_id": "0300D003",
+      "type": "master_mcu",
+      "master_mcu_target_id": "3",
+      "protocol_version": "v3"
+    }
+  ]
+}

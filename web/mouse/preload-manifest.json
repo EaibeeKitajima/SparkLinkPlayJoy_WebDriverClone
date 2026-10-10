@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "productId": "mouse",
+  "resources": [
+    {
+      "type": "style",
+      "url": "/mouse/css/button-BGMrsDbD.css"
+    },
+    {
+      "type": "style",
+      "url": "/mouse/css/feedback-By5pMuUg.css"
+    },
+    {
+      "type": "style",
+      "url": "/mouse/css/info-circle-filled-BNhxrQT6.css"
+    },
+    {
+      "type": "style",
+      "url": "/mouse/css/main-D_SlLcAG.css"
+    },
+    {
+      "type": "style",
+      "url": "/mouse/css/plugin-BVwJO_6R.css"
+    },
+    {
+      "type": "style",
+      "url": "/mouse/css/tooltip-3FOMpSsP.css"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/_plugin-vue_export-helper-BDNMzG2s.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/button-DX8R50Zg.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/feedback-UaDASdB8.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/icon-DPqlPqW5.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/icons-xH12ywmk-CBDgcWLO.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/info-circle-filled-CZZUF6fT.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/locales-oS-ICJqT.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/main-g1gAi-8O.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/pinia-CpEVJ7Fd.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/plugin-BlCGIqNm.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/rolldown-runtime-hePW80VL.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/tooltip-DT2-CrgW.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/utils-KjYPAfLh.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/vue-core-DcGVfXb0.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/vue-i18n-D8ls6IYw.js"
+    },
+    {
+      "type": "script",
+      "url": "/mouse/js/vue-router-DHzgdm1_.js"
+    }
+  ]
+}

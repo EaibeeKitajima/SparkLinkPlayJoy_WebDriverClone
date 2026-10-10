@@ -1,0 +1,106 @@
+/* 独立于应用依赖的首屏底色；主题初始化后自动使用主题 Token。 */
+html,
+body {
+  margin: 0;
+  background: var(--td-bg-color-page, #181818);
+}
+
+.keyboard-startup {
+  position: fixed;
+  inset: 0;
+  z-index: 2147483647;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  /* 启动主题会先应用默认值再恢复偏好，固定加载屏配色避免中途闪白。 */
+  color: #eee;
+  background: #181818;
+  font:
+    14px / 1.5 system-ui,
+    sans-serif;
+}
+
+.keyboard-startup p {
+  margin: 0;
+}
+
+.keyboard-startup-progress {
+  width: min(260px, 70vw);
+  height: 6px;
+  overflow: hidden;
+  border-radius: 6px;
+  /* 轨道和填充均不读取主题变量，避免主题恢复过程中突然变白。 */
+  background: #383838;
+}
+
+.keyboard-startup-fill {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  border-radius: inherit;
+  background: #618dff;
+  transform: scaleX(0.5);
+  transform-origin: left;
+  transition: transform 320ms ease-out;
+  will-change: transform;
+}
+
+.keyboard-startup-progress[data-stage='3'] .keyboard-startup-fill {
+  transform: scaleX(0.75);
+}
+
+.keyboard-startup-progress[data-stage='4'] .keyboard-startup-fill {
+  transform: scaleX(1);
+}
+
+/* 用合成层位移动画表达持续工作，不依赖 JS 逐帧更新或虚构完成进度。 */
+.keyboard-startup-fill::after {
+  position: absolute;
+  inset: 0;
+  content: '';
+  background: linear-gradient(90deg, transparent, rgb(255 255 255 / 35%), transparent);
+  transform: translateX(-100%);
+  animation: keyboard-startup-flow 1.4s linear infinite;
+  will-change: transform;
+}
+
+@keyframes keyboard-startup-flow {
+  to {
+    transform: translateX(100%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .keyboard-startup-fill {
+    transition: none;
+  }
+
+  .keyboard-startup-fill::after {
+    animation: none;
+  }
+}
+
+/* JS 下载失败或设备连接卡住时，也保留无需脚本的退出入口。 */
+.keyboard-startup-actions {
+  position: absolute;
+  top: calc(50% + 70px);
+  padding: 0 20px;
+  text-align: center;
+  visibility: hidden;
+  animation: keyboard-startup-help 15s steps(1, end) forwards;
+}
+
+.keyboard-startup-actions a {
+  display: inline-block;
+  margin: 12px 8px 0;
+  color: inherit;
+  text-decoration: underline;
+}
+
+@keyframes keyboard-startup-help {
+  to {
+    visibility: visible;
+  }
+}

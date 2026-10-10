@@ -1,0 +1,412 @@
+{
+  "complete": false,
+  "missingScripts": 43,
+  "missingStyles": 32,
+  "missingAssets": 130,
+  "missing": {
+    "images/douyin-group-qr.png": [
+      "keyboardv3/js/main-C1DVam6t.js",
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "images/star-group-qr.png": [
+      "keyboardv3/js/main-C1DVam6t.js",
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/KeyPerformance-pTkHuhnK.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/advanced-key-B1F5JIaw.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/color-picker-5n1mINtG.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/config-CGdknICe.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/custom-key-DCj2sBhU.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/firmware-DwScKs9f.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/handle-Dz29Gvpt.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/lighting-D_CLViwd.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/macro-0xYED-nb.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/progress-vyO8YOhQ.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/radio-C7Lje5rN.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/screen-D8YS7HER.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/select-DgZLoGW8.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/settings-BE35EsB2.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/tag-CqheZdfZ.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/upload-Bjw4Luog.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/css/voice-BMiTclYI.css": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/color-picker-jj7mTupz.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/config-provider-B0TmGkYf.js": [
+      "keyboard/js/main-DjX7mXN9.js",
+      "keyboard/js/config-BSwL0mpO.js"
+    ],
+    "keyboard/js/delete-X7EsO-z4.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/dep-128e8914-CJuJYjAP.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/echarts-BSqNzWqZ.js": [
+      "keyboard/js/echarts-C2T-SlM2.js",
+      "keyboard/js/locale-DmD0egYz.js"
+    ],
+    "keyboard/js/info-circle-BKO-0WU_.js": [
+      "keyboard/js/main-DjX7mXN9.js",
+      "keyboard/js/firmware-7_GFxu-T.js",
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/js/lighting-nhzhBTGy.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/macro-CXhUMMY1.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/progress-X1_Sh3CJ.js": [
+      "keyboard/js/main-DjX7mXN9.js",
+      "keyboard/js/firmware-7_GFxu-T.js"
+    ],
+    "keyboard/js/radio-BJrjF2fV.js": [
+      "keyboard/js/main-DjX7mXN9.js",
+      "keyboard/js/firmware-7_GFxu-T.js"
+    ],
+    "keyboard/js/screen-DdNzOSIb.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/select-BTir3fAB.js": [
+      "keyboard/js/main-DjX7mXN9.js",
+      "keyboard/js/config-BSwL0mpO.js",
+      "keyboard/js/firmware-7_GFxu-T.js",
+      "keyboard/js/handle-DTPejv0y.js"
+    ],
+    "keyboard/js/settings-C-dMNj2h.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/tag-Dm2q9l5S.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/throttle-BjNLt7vQ.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/time-BRVJm9HY.js": [
+      "keyboard/js/main-DjX7mXN9.js",
+      "keyboard/js/firmware-7_GFxu-T.js"
+    ],
+    "keyboard/js/upload-C0KQEK2M.js": [
+      "keyboard/js/main-DjX7mXN9.js",
+      "keyboard/js/config-BSwL0mpO.js",
+      "keyboard/js/firmware-7_GFxu-T.js"
+    ],
+    "keyboard/js/voice-VlPgk1aF.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/wallpaper-B5G6viEb.js": [
+      "keyboard/js/locale-DmD0egYz.js"
+    ],
+    "keyboard/js/web-version-BVai-5s4.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/js/web-version-UqBtMwk4.js": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/png/67d3e811791458ad149d2f28-C_KTXK9n.png": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/png/qq-UMjKCDoS.png": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/svg/default-device-logo-DTVTan-j.svg": [
+      "keyboard/js/locale-DmD0egYz.js"
+    ],
+    "keyboard/svg/lockwin-DmmoyCUN.svg": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webm/dks-BdxVjqjY.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/end-M29Vwq5s.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/mpt-BKNRgAoB.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/mt-s5uBpLs9.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/rs-Dt-x2eyZ.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/socd_a-Dush9aZs.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/socd_b-DeH-i69X.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/socd_neutral-54DhDn1L.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/socd_thick-fphZ44bi.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webm/tgl-C2bGMPkF.webm": [
+      "keyboard/js/advanced-key-oNT6FGgR.js"
+    ],
+    "keyboard/webp/default1-C0T-YYkl.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default2-Boi0lcbm.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default3-BDa53Q3f.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default4-D3Wr1EAA.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default5-B7A_cqLk.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default6-C9bxaZUE.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default7-DT0LzqgN.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default8-CvWOcSYi.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default9-BR6BdmcZ.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb1-BwVcn3vY.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb2-DYKeutHj.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb3-DlER470u.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb4-D7Bz38t1.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb5-CoO7Ei93.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb6-DgJUh13Y.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb7-9fauZStR.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb8-CFoDvgpJ.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboard/webp/default_thumb9-DRPD4HEi.webp": [
+      "keyboard/js/main-DjX7mXN9.js"
+    ],
+    "keyboardv3/css/ConnectView-D-jWKRHn.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/css/WorkspaceView-DUM_FO3d.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/css/advanced-key-2OuBx0Ba.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/css/custom-key-AJUzWpAv.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/css/firmware-GGTegcw4.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/css/lighting-CqfyMX03.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/css/macro-DPvzpnGp.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/css/performance-DPfiOWrq.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/css/svg-icon-BXRH82j0.css": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/gif/default-echo-logo-ChC9RD2x.gif": [
+      "keyboardv3/js/keyboard-api-B0AHPMTB.js"
+    ],
+    "keyboardv3/js/ConnectView-DhFRsGkE.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/WorkspaceView-CCYEQLbo.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/advanced-key-Bc4t25Wy.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/custom-key-DIlMpwtC.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/echarts-BSqNzWqZ.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/filter-key-BvqXXt57.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/firmware-CIFhrRdV.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/keyboardUiEmitter-BPXIZSDN.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/lighting-BG49z7ZH.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/macro-Dc409Y3e.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/multi-language-Bz698HVh.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/performance-IadOWOkc.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/js/svg-icon-DkQxcAFq.js": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/png/qq-BXwbIId3.png": [
+      "keyboardv3/js/main-C1DVam6t.js"
+    ],
+    "keyboardv3/svg/default-device-logo-DTVTan-j.svg": [
+      "keyboardv3/js/keyboard-api-B0AHPMTB.js"
+    ],
+    "mouse/css/404-hRYgWpyV.css": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/css/calibration-Dm6SDO-4.css": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/css/performance-B3rnd-ru.css": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/css/settings-B7mGTA5s.css": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/css/switch-zvVc-TMH.css": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/css/trigger-CWHGme8s.css": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/gif/default-echo-logo-ChC9RD2x.gif": [
+      "mouse/js/locales-oS-ICJqT.js"
+    ],
+    "mouse/js/404-BizKXmk5.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/js/calibration-CvNVLCCV.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/js/connect-Da8n6Xbu.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/js/performance-nIHzO7cm.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/js/settings-po5dWwXc.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/js/switch-B5upxxlF.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/js/trigger-TGzXJYS3.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/js/useMouseSettingsFacade-CxCLI0XO.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/js/web-version-V64Z3PWB.js": [
+      "mouse/js/main-g1gAi-8O.js"
+    ],
+    "mouse/png/mouse-example-DXgubw6r.png": [
+      "mouse/css/main-D_SlLcAG.css"
+    ],
+    "mouse/svg/check_style14-DgpAmZ-x.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/check_style19-BAWjVrsR.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/check_style2-D7MYLKgr.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/check_style4-CPFVI4tk.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/check_style6-6H0zdFT4.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/check_style8-Cu9kGS-g.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/check_style9-BApQYLnw.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/default-device-logo-DTVTan-j.svg": [
+      "mouse/js/locales-oS-ICJqT.js"
+    ],
+    "mouse/svg/light_style14-BTZH39Cv.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/light_style19-ClO6x0vd.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/light_style2-CtNorMpN.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/light_style4-6Axm7td_.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/light_style6-Dn9Cddpb.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/light_style8-C3pLyp3U.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/light_style9-HgrvRgF7.svg": [
+      "mouse/js/useMouseShellFacade-CGj3PoG4.js"
+    ],
+    "mouse/svg/xsyd-CMeLs1Eg.svg": [
+      "mouse/css/main-D_SlLcAG.css"
+    ]
+  }
+}

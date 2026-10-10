@@ -1,0 +1,1 @@
+var e=new Map,t={on(t,n){let r=e.get(t)??new Set;r.add(n),e.set(t,r)},off(t,n){e.get(t)?.delete(n)},emit(t,n){e.get(t)?.forEach(e=>e(n))}};export{t};

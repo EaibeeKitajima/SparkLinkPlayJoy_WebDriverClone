@@ -1,0 +1,77 @@
+/* 保持与键盘启动屏一致的深色底和阶段进度，在 Vue 启动前即可显示。 */
+html,
+body {
+  margin: 0;
+  background: #181818;
+}
+
+.mouse-startup {
+  position: fixed;
+  z-index: 2147483647;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  color: #eee;
+  background: #181818;
+  font: 14px / 1.5 system-ui, sans-serif;
+  inset: 0;
+}
+
+.mouse-startup p {
+  margin: 0;
+}
+
+.mouse-startup-progress {
+  width: min(260px, 70vw);
+  height: 6px;
+  overflow: hidden;
+  border-radius: 6px;
+  background: #383838;
+}
+
+.mouse-startup-fill {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  border-radius: inherit;
+  background: #618dff;
+  transform: scaleX(0.5);
+  transform-origin: left;
+  transition: transform 320ms ease-out;
+}
+
+.mouse-startup-progress[data-stage='3'] .mouse-startup-fill {
+  transform: scaleX(0.75);
+}
+
+.mouse-startup-progress[data-stage='4'] .mouse-startup-fill {
+  transform: scaleX(1);
+}
+
+/* 流光持续运行表示仍在准备，不把阶段进度伪装成下载百分比。 */
+.mouse-startup-fill::after {
+  position: absolute;
+  inset: 0;
+  content: '';
+  background: linear-gradient(90deg, transparent, rgb(255 255 255 / 35%), transparent);
+  transform: translateX(-100%);
+  animation: mouse-startup-flow 1.4s linear infinite;
+}
+
+@keyframes mouse-startup-flow {
+  to {
+    transform: translateX(100%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mouse-startup-fill {
+    transition: none;
+  }
+
+  .mouse-startup-fill::after {
+    animation: none;
+  }
+}

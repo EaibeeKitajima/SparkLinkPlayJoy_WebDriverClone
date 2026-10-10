@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "productId": "keyboardv3",
+  "resources": [
+    {
+      "type": "style",
+      "url": "/keyboardv3/css/main-CzP-tvTV.css"
+    },
+    {
+      "type": "style",
+      "url": "/keyboardv3/css/tdesign-BSJb-6pc.css"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/keyboard-api-B0AHPMTB.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/locale-CWgfQL_p.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/main-C1DVam6t.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/pinia-BxmYXJyN.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/rolldown-runtime-B0Z9INg1.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/tdesign-D2lt9Gzs.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/utils-CdSv1sPm.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/vue-core-CEOIziFb.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/vue-i18n-DHzbTFhc.js"
+    },
+    {
+      "type": "script",
+      "url": "/keyboardv3/js/vue-router-vGyV9VIG.js"
+    }
+  ]
+}

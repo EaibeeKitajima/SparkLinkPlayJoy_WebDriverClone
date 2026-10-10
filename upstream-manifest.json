@@ -1,0 +1,623 @@
+{
+  "origin": "https://hub.xsyd.top/",
+  "upstreamVersion": "1.3.0",
+  "captureDate": "2026-10-09",
+  "hashes": "Local files after adaptation; original modified bundles are retained in upstream-originals.zip",
+  "assets": [
+    {
+      "path": "assets/ConnectPage-CxZ4_QhO.js",
+      "bytes": 110093,
+      "local_sha256": "e5b53f1e2c65510be027ae36de322b00707857a1730205fa2aee5b2391e7c519"
+    },
+    {
+      "path": "assets/ConnectPage-D_fykeXZ.css",
+      "bytes": 36274,
+      "local_sha256": "ae8b5eaf7b2a0bcbd326ecfd90f8e401c2a87cc05b295a2815a5dc51e0a39265"
+    },
+    {
+      "path": "assets/LoginDialog-CvtZZ7eB-8fnjWdKn.css",
+      "bytes": 10049,
+      "local_sha256": "52a464415781eb5e5a6b2f5fc9b1ec73b1d3ac8756c14db9efef2e015c40904f"
+    },
+    {
+      "path": "assets/LoginDialog-CvtZZ7eB-CB4QPdEI.js",
+      "bytes": 25492,
+      "local_sha256": "2442fd5cca53e628f83dd185c8536220c7f7db4a7bdff1e00035f8ccddba5baf"
+    },
+    {
+      "path": "assets/MouseHostPage-Bk_miy8q.js",
+      "bytes": 1601,
+      "local_sha256": "21d002d1a7f90b65f5f7609eb281f427561d0310a90836c17b961bff7ac5a60d"
+    },
+    {
+      "path": "assets/MouseHostPage-BugZQJlI.css",
+      "bytes": 220,
+      "local_sha256": "4e5a102012b6e54af41cfe330658ad49c69d33e641fb3b7e0fae96ea10c6631f"
+    },
+    {
+      "path": "assets/NotFoundPage-17sYZbvt.css",
+      "bytes": 663,
+      "local_sha256": "8da5a8af329b10f8505a4a9796875a247e32a40f4a23617ebd30a85c20dae996"
+    },
+    {
+      "path": "assets/NotFoundPage-CzAYf4Rv.js",
+      "bytes": 568,
+      "local_sha256": "3b1281c1f14518920bce6783834da0103ac6f320a98e3f1c22bfd7ef71e5ffeb"
+    },
+    {
+      "path": "assets/_plugin-vue_export-helper-BDNMzG2s.js",
+      "bytes": 84,
+      "local_sha256": "27e87fe62aa760227b7529576953d8314891fd2aec28e0a3f03aece406f2d7d7"
+    },
+    {
+      "path": "assets/_virtual_brand-profile-pw3gUg8Y.js",
+      "bytes": 9826,
+      "local_sha256": "62e7ac04a78e25e9a3bdb830c52c442e25042f81ff8f86bd1b013fa81967450f"
+    },
+    {
+      "path": "assets/auth-ml8hxXla-Ky5th5ZP.js",
+      "bytes": 6526,
+      "local_sha256": "c2039a5ce2bb67b2d8cf52ae5502f2fc5ea58c7d23e12baa11f5cd02ee54be70"
+    },
+    {
+      "path": "assets/axios-DpQPmFwX.js",
+      "bytes": 47683,
+      "local_sha256": "0519aadf58c9feef209f8c9122b7514fbe5af9d8c7f80a2066ed656500d6f7a2"
+    },
+    {
+      "path": "assets/default-device-logo-DTVTan-j.svg",
+      "bytes": 12550,
+      "local_sha256": "249395415e3ffacb6cbbe1ecfce54099fa3b47716b4ec2a27920e695f5638e7c"
+    },
+    {
+      "path": "assets/default-echo-logo-ChC9RD2x.gif",
+      "bytes": 141732,
+      "local_sha256": "d0efb196625e9ace24d40db7664ada16256ce57f9d78a77cba0e4d277aa50928"
+    },
+    {
+      "path": "assets/es-BqFAT1cm.js",
+      "bytes": 46265,
+      "local_sha256": "04b400994a555633b73741d21a9e8767c77e00f5552b33b13e566de0c5879404"
+    },
+    {
+      "path": "assets/es-DGkKqLEm.css",
+      "bytes": 18493,
+      "local_sha256": "5551bfd8029495cafaec74a23d347bafdb1abaa41533b3040b0825e4cd9aa86b"
+    },
+    {
+      "path": "assets/index-B5Q4TyUf.css",
+      "bytes": 34262,
+      "local_sha256": "42cccab6ec0d805a6ada5f1ec966f6849de3072ccc919ee0dfe80bceba0a5a63"
+    },
+    {
+      "path": "assets/index-BWPZnG1c.js",
+      "bytes": 4136,
+      "local_sha256": "695d968784af8b930ec270dca85b881186f8ab9e6e0330be72a424a064f085d1"
+    },
+    {
+      "path": "assets/locales-D4y57Ljl.js",
+      "bytes": 193771,
+      "local_sha256": "84aad180f839b1adc95b0e5286c16d743f6e4874ec20890cb8adde8111531194"
+    },
+    {
+      "path": "assets/mouse-host-yuEwWatP.js",
+      "bytes": 2892,
+      "local_sha256": "0a7a8547a8479580611c987cac37d43e450700e48cf18f804e3202327454187f"
+    },
+    {
+      "path": "assets/plugin-0t45we_y.js",
+      "bytes": 94528,
+      "local_sha256": "41af5f1a74a4e73768aba0473c3f0e0d8e1845fee7b6645b25f07d260f38da53"
+    },
+    {
+      "path": "assets/plugin-DNeAXuR-.css",
+      "bytes": 53625,
+      "local_sha256": "8fc5c38eb5eec91eb862acf595ea2578d51d37d26f848b5b731346e7ee53f0eb"
+    },
+    {
+      "path": "assets/preload-helper-Bb3psP02.js",
+      "bytes": 2993,
+      "local_sha256": "c9c33e06e3e6e25c6e1394a1f83f4428bd74769a702cb6f61c6ac0e1eaf7af91"
+    },
+    {
+      "path": "assets/rolldown-runtime-DK3Fl9T5.js",
+      "bytes": 158,
+      "local_sha256": "a526d1bb3288ef04d001028843220a24b0867a4edf8c685b69506d6525af36ff"
+    },
+    {
+      "path": "assets/src-CsFHjq1S.js",
+      "bytes": 534,
+      "local_sha256": "604e6f1a6122fb1e8e541e748501e32243ac24e8b90e7e835fdf379c9cc5eb17"
+    },
+    {
+      "path": "assets/src-DjofSuHq.js",
+      "bytes": 4343,
+      "local_sha256": "1f0792b03b1cc13d4b4562d3fa299ba457b0acd26c5e063b54598fc38380135e"
+    },
+    {
+      "path": "assets/vue-S6O8Zc5h.js",
+      "bytes": 136503,
+      "local_sha256": "620e067dcee830a18fa6f69f1782228b9f66a6db528ee2f4c8dae3993bab0ae6"
+    },
+    {
+      "path": "assets/web-version-ByhDegjm.js",
+      "bytes": 1342,
+      "local_sha256": "bdfb6b771925e8b20f35cc8161ace0d2c09ee2c41d9843fc140229d67cb7feb9"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1743,
+      "local_sha256": "ff6667613f00690cd5f898fefca048168f0bc65620ccb7d6714f80d96a8bfe58"
+    },
+    {
+      "path": "keyboard/css/auth-ml8hxXla-CnYTU9MA.css",
+      "bytes": 55647,
+      "local_sha256": "afe3882054457bbd10bf8bec71cb8728fdf3d0052421f0ab3cb484979f0c37c1"
+    },
+    {
+      "path": "keyboard/css/input-ZTOoTrH9.css",
+      "bytes": 10202,
+      "local_sha256": "762263185f16cee804869c06288becdec94d37779f9cfb6460f1d288603cf1f2"
+    },
+    {
+      "path": "keyboard/css/input-number-CYUK8Zwx.css",
+      "bytes": 10324,
+      "local_sha256": "34b3802420b7a5dd3f83befc207d3b102e9952811ce2f9f5a2e1a5a52c7ff09a"
+    },
+    {
+      "path": "keyboard/css/layout-BDGCKNIP.css",
+      "bytes": 633,
+      "local_sha256": "6c09c02d283f26e1d1bebd5fd226e87a9517fd3e1b745cc674b9506ec2d9e743"
+    },
+    {
+      "path": "keyboard/css/locale-Cge_-SHK.css",
+      "bytes": 8326,
+      "local_sha256": "76d37c10d2fa5900436c1ce1bda84e69aca291eab05bdfe3e3e4084d94839550"
+    },
+    {
+      "path": "keyboard/css/main-CXLt3FHA.css",
+      "bytes": 133986,
+      "local_sha256": "32c84f9feba4eed9cef88624614a8648941498da6cc88a771434d9bcda232204"
+    },
+    {
+      "path": "keyboard/css/slider-CCbDu2qu.css",
+      "bytes": 4095,
+      "local_sha256": "8c5a3c1deed7e4e4956c2ac7f51ff2fef1953d05094e58d62bff3eba48a43823"
+    },
+    {
+      "path": "keyboard/css/slider-number-gdtG9T10.css",
+      "bytes": 1035,
+      "local_sha256": "26706e86800a37c82ec999f7d3ab28c7f167ce71f729a93f9fb8b1ab4912d1ec"
+    },
+    {
+      "path": "keyboard/css/svg-icon-CRiBOz7e.css",
+      "bytes": 301,
+      "local_sha256": "338de0236b2a26dd3575f9ad658da63b1daaa2d559dc33f3bfd77ed0dc5ad367"
+    },
+    {
+      "path": "keyboard/css/switch-BlRXs8f5.css",
+      "bytes": 5877,
+      "local_sha256": "d2b0ecc57942fae01f47d3938ecf2a4f5e543242ca398bccb07403e534436403"
+    },
+    {
+      "path": "keyboard/css/text-switch-x1XGuNl0.css",
+      "bytes": 1,
+      "local_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "keyboard/gif/default-echo-logo-ChC9RD2x.gif",
+      "bytes": 141732,
+      "local_sha256": "d0efb196625e9ace24d40db7664ada16256ce57f9d78a77cba0e4d277aa50928"
+    },
+    {
+      "path": "keyboard/index.html",
+      "bytes": 7477,
+      "local_sha256": "8d9bf99ceed556f3e5bc68c4a5dca62a7a3cdad12f4bdbcbb68d43ee616bcfe9"
+    },
+    {
+      "path": "keyboard/js/KeyPerformance-C0SgoiQa.js",
+      "bytes": 2290,
+      "local_sha256": "dc8ed40431b5d89d96520ae3bacce43477592cee42a54e247495c4685573c8c5"
+    },
+    {
+      "path": "keyboard/js/LoginDialog-CvtZZ7eB-DmM-0aXo.js",
+      "bytes": 9403,
+      "local_sha256": "82cc844509dd043d1a58fa807e44643286b71c400a73ca397217d8d18a73654f"
+    },
+    {
+      "path": "keyboard/js/_plugin-vue_export-helper-BDNMzG2s.js",
+      "bytes": 84,
+      "local_sha256": "27e87fe62aa760227b7529576953d8314891fd2aec28e0a3f03aece406f2d7d7"
+    },
+    {
+      "path": "keyboard/js/advanced-key-oNT6FGgR.js",
+      "bytes": 41130,
+      "local_sha256": "8897e15fdbf3610a02401397eefdb8baa5f03e5cf4c5613ab11ecef153080db9"
+    },
+    {
+      "path": "keyboard/js/auth-ml8hxXla-CpSEG2_6.js",
+      "bytes": 126138,
+      "local_sha256": "a4691435d329d6892bbcfd14e52bbdd8d90f053d8a326313d2635c8d96f9aef9"
+    },
+    {
+      "path": "keyboard/js/chevron-left-3UghGYeD.js",
+      "bytes": 1244,
+      "local_sha256": "0700a023abe3a04b7e41b54ccbd605fc673b06d3a23eec109fffe2c4ba051d35"
+    },
+    {
+      "path": "keyboard/js/config-BSwL0mpO.js",
+      "bytes": 32745,
+      "local_sha256": "fa8c4158d1992c98814ed5c1a23d5285b1771bc541c5fbdd0fc74c83e45b6d9f"
+    },
+    {
+      "path": "keyboard/js/custom-key-BXMxo0Ic.js",
+      "bytes": 14550,
+      "local_sha256": "a1ccd5d35bb3cd73810d38e060cd122fa1cefdee29ccc665e297fafb22b76752"
+    },
+    {
+      "path": "keyboard/js/dep-54d936f6-Dh8rZX6Z.js",
+      "bytes": 10059,
+      "local_sha256": "502a0e222e40f6a9735a2a643184de347af6720d5cf0a8c0fad59a2c9bb775b3"
+    },
+    {
+      "path": "keyboard/js/dialog-C-xIqloY.js",
+      "bytes": 141,
+      "local_sha256": "c16f7c8894fab617c75904b7fc3677d76d88b3a80631360a821305196f89938a"
+    },
+    {
+      "path": "keyboard/js/echarts-C2T-SlM2.js",
+      "bytes": 263,
+      "local_sha256": "0586bb7a4be9ae1c5dae2d4d04d97ab65b85e855ce2069b8c05c4d53947ca6d0"
+    },
+    {
+      "path": "keyboard/js/esm-BSNVEyo2.js",
+      "bytes": 261733,
+      "local_sha256": "a61c8e9660280dcc1ceb6787670c80a7a9a9da7fae00657fdc2a074c798369df"
+    },
+    {
+      "path": "keyboard/js/fake-arrow-C8Rg-DpN.js",
+      "bytes": 740,
+      "local_sha256": "26bc1810422ae00739bdec1dc4805a68d97803a390dddffff91a392c12c35510"
+    },
+    {
+      "path": "keyboard/js/filter-key-BvqXXt57.js",
+      "bytes": 282,
+      "local_sha256": "3daef2063942c7ec155636022b67a288cb62f0d72e537c52cc6eac043c6a0a99"
+    },
+    {
+      "path": "keyboard/js/firmware-7_GFxu-T.js",
+      "bytes": 26759,
+      "local_sha256": "16fb3883bd7f16a38f0b0f5a10ffb87349c4666011626296338bb56266415c16"
+    },
+    {
+      "path": "keyboard/js/handle-DTPejv0y.js",
+      "bytes": 4407,
+      "local_sha256": "cf3e1a4d03350c9bdb00797fbb30188b8d0c979531b0011ff2e5031bbee3b561"
+    },
+    {
+      "path": "keyboard/js/iconfont-Pg9HNsYt.js",
+      "bytes": 1651,
+      "local_sha256": "82ecbc594b3197d463e5626d5f0724949bcafb0025fd8d0ca0954affade00268"
+    },
+    {
+      "path": "keyboard/js/input-CkV2kP5M.js",
+      "bytes": 15809,
+      "local_sha256": "866e385f34d194ffaca3b81845960b8d2fbd69ed58e789c4760be1af01e9b4e4"
+    },
+    {
+      "path": "keyboard/js/input-number-HxZWRx-W.js",
+      "bytes": 10070,
+      "local_sha256": "655ac16d7b83026231e7e1dac267aaa8db1817d7181c85715eb08f820f31dc72"
+    },
+    {
+      "path": "keyboard/js/keyboard-r5WkjY3u.js",
+      "bytes": 3557,
+      "local_sha256": "a588346c40edd703e0898ffdc4b6d20c05718c2146378bec7bdec806f8f920a9"
+    },
+    {
+      "path": "keyboard/js/keyboardUiEmitter-BPXIZSDN.js",
+      "bytes": 149,
+      "local_sha256": "4f684eab04a0e57d5600b7682c81386cb1227dd33af3bb5245f7d71a5175e22d"
+    },
+    {
+      "path": "keyboard/js/layout-C56uU4Q8.js",
+      "bytes": 1533,
+      "local_sha256": "597722fb1c2d10298f85100e6629a8d74dde39378f81b342c82983c408acfc90"
+    },
+    {
+      "path": "keyboard/js/locale-DmD0egYz.js",
+      "bytes": 493336,
+      "local_sha256": "2cf8d36801b5c75fdad56073f35094dff5ade6eee1b919aecd3e6bcb50fff411"
+    },
+    {
+      "path": "keyboard/js/main-DjX7mXN9.js",
+      "bytes": 383866,
+      "local_sha256": "ad95bfb91531511cb488e474650f087ab11bf2522afd16d7747c46910c1c67ea"
+    },
+    {
+      "path": "keyboard/js/pinia-BX093hov.js",
+      "bytes": 6091,
+      "local_sha256": "b940ce9d69e94012cca5182b078d16def704a55886f5ca34926c3d11126bc546"
+    },
+    {
+      "path": "keyboard/js/rolldown-runtime-B0Z9INg1.js",
+      "bytes": 901,
+      "local_sha256": "5e9b0d884d2ebb14e241ab38b43e41efb61bce2e74d71507b0b95b264fba4047"
+    },
+    {
+      "path": "keyboard/js/slider-BoyjcUqW.js",
+      "bytes": 14076,
+      "local_sha256": "4d5977cfe0a6bc30ce3892c2c719eb7719bc4da9e584b5a0c46b180e676cf495"
+    },
+    {
+      "path": "keyboard/js/slider-number-CDuft8EE.js",
+      "bytes": 1781,
+      "local_sha256": "c6e57e71136f2dc4c9a841f9735a950d0700bb6b3aa5d8999c4cd158ece62ed4"
+    },
+    {
+      "path": "keyboard/js/svg-icon-gx1JbOmo.js",
+      "bytes": 1550,
+      "local_sha256": "55b23816c27de6372e21e5332135022bbe825b03278192e3058538d8cfc4b3be"
+    },
+    {
+      "path": "keyboard/js/switch-B0jP-hbc.js",
+      "bytes": 2325,
+      "local_sha256": "2f69f9d88078ad94c02e539c11b38122b9c9f393859ea694d68ae000ad958518"
+    },
+    {
+      "path": "keyboard/js/text-switch-CqhUuJCL.js",
+      "bytes": 1294,
+      "local_sha256": "091dca4570b52739e2758a155adbf30cc2dbd99240f8fc95ca155c014924ea23"
+    },
+    {
+      "path": "keyboard/js/utils-COKPvNS1.js",
+      "bytes": 92772,
+      "local_sha256": "686604844ea8a3e338f8ecb0374f4c6e638528afe56c4c2b53c16d247ec75573"
+    },
+    {
+      "path": "keyboard/js/vue-core-CmTRiEKg.js",
+      "bytes": 109151,
+      "local_sha256": "76631be99f246a5d8035473175c9e99dda29ecc49923f8697d1da839dca76da5"
+    },
+    {
+      "path": "keyboard/js/vue-i18n-DkHRFZ_g.js",
+      "bytes": 55998,
+      "local_sha256": "203cc98f85b630638bb6c2174bf087dfee97f9f877220008e19637fdc3e2595c"
+    },
+    {
+      "path": "keyboard/js/vue-router-C7TUaHrd.js",
+      "bytes": 22043,
+      "local_sha256": "82c51f2554bc77e022b13f795f3e936a92236c8d8f616d17b94545ac718cb57f"
+    },
+    {
+      "path": "keyboard/js/wallpaper-CDSuXu0X.js",
+      "bytes": 1149,
+      "local_sha256": "8b4e6f420cca562c8f9b02070bc76f3f6b9425987367ae1c479d8c9d004c58f7"
+    },
+    {
+      "path": "keyboard/preload-manifest.json",
+      "bytes": 3391,
+      "local_sha256": "71e96d49e40fdc621067ee430f0cc735883d06cf9b859750ed943b32aa4949a6"
+    },
+    {
+      "path": "keyboard/startup.css",
+      "bytes": 2378,
+      "local_sha256": "d5922a25822cc1d1d492073b7f20e7050a99ef8002a48bd94ff05e8588ab0966"
+    },
+    {
+      "path": "keyboardv3/css/main-CzP-tvTV.css",
+      "bytes": 31062,
+      "local_sha256": "71b09ce68a078d1e14b306bd0b6d0e47607c28947cd481b174dc09d67f57d22d"
+    },
+    {
+      "path": "keyboardv3/css/tdesign-BSJb-6pc.css",
+      "bytes": 189026,
+      "local_sha256": "9a042e666f15a2cbaa3b37ece5cb278ad60b189b583cce5b9e3025cbe9593931"
+    },
+    {
+      "path": "keyboardv3/index.html",
+      "bytes": 1607,
+      "local_sha256": "7ccf4375701710ec5c05eeaf0ab7c1ceb216425065bba8dfa52facaad85d2e25"
+    },
+    {
+      "path": "keyboardv3/js/keyboard-api-B0AHPMTB.js",
+      "bytes": 312071,
+      "local_sha256": "c523814427c8a5a0684d20439a1b44b98d857d7e76cab9669c1a9aeed3ac53b8"
+    },
+    {
+      "path": "keyboardv3/js/locale-CWgfQL_p.js",
+      "bytes": 139693,
+      "local_sha256": "575ca5c01036a22c0d50cc6e12dabbba160da8f9e9b3b2f4fa821fdde87c486b"
+    },
+    {
+      "path": "keyboardv3/js/main-C1DVam6t.js",
+      "bytes": 33541,
+      "local_sha256": "53c87dd354b769c36df9987f3708c6c59ce3e021e2e7f604e75fc6075a1243da"
+    },
+    {
+      "path": "keyboardv3/js/pinia-BxmYXJyN.js",
+      "bytes": 6091,
+      "local_sha256": "70abcc9311ead187add6e544131153f12fe5d87df65fe20bbde1bd921734ba0c"
+    },
+    {
+      "path": "keyboardv3/js/rolldown-runtime-B0Z9INg1.js",
+      "bytes": 901,
+      "local_sha256": "5e9b0d884d2ebb14e241ab38b43e41efb61bce2e74d71507b0b95b264fba4047"
+    },
+    {
+      "path": "keyboardv3/js/tdesign-D2lt9Gzs.js",
+      "bytes": 405353,
+      "local_sha256": "270ec7750a679b13f690e48cc956e488f55481c6b2694a89b309739b15a5e495"
+    },
+    {
+      "path": "keyboardv3/js/utils-CdSv1sPm.js",
+      "bytes": 94970,
+      "local_sha256": "79fce448913aacb7c451a7af4652b67fabf483a109be72748c717e64e47b59c9"
+    },
+    {
+      "path": "keyboardv3/js/vue-core-CEOIziFb.js",
+      "bytes": 109130,
+      "local_sha256": "9fb97c6b5e219db141958413e978a04c2fbe5235db71493ba5a870a30a49fd18"
+    },
+    {
+      "path": "keyboardv3/js/vue-i18n-DHzbTFhc.js",
+      "bytes": 56003,
+      "local_sha256": "9a63217303cfd5486d408c12d32dee8350d19bf58dcba4cc7c0561898793c88e"
+    },
+    {
+      "path": "keyboardv3/js/vue-router-vGyV9VIG.js",
+      "bytes": 22043,
+      "local_sha256": "0d8e4aa1303885b9f24558bfe2187fa28cca29b2711a5ecd35dcb67e1c6d9f5e"
+    },
+    {
+      "path": "keyboardv3/miniLogo.svg",
+      "bytes": 10194,
+      "local_sha256": "29d01867a6930ab2228df49ae806a26ac30871dceae34ffe9c6b1cbefcadfb4b"
+    },
+    {
+      "path": "keyboardv3/preload-manifest.json",
+      "bytes": 1123,
+      "local_sha256": "bae1939378263350f463967115ffb52bb36ae5fa679eb65b42979bc154a71755"
+    },
+    {
+      "path": "miniLogo.svg",
+      "bytes": 10194,
+      "local_sha256": "29d01867a6930ab2228df49ae806a26ac30871dceae34ffe9c6b1cbefcadfb4b"
+    },
+    {
+      "path": "mouse/css/button-BGMrsDbD.css",
+      "bytes": 45975,
+      "local_sha256": "e2c82cd83fb6765831cf657c54b5f20278212c891108f61c1bed9a2cef418e8b"
+    },
+    {
+      "path": "mouse/css/feedback-By5pMuUg.css",
+      "bytes": 1903,
+      "local_sha256": "c17061834119bbb2d356c3ca592ad35d1d32ece3b367f915ae482d5b081edcfa"
+    },
+    {
+      "path": "mouse/css/info-circle-filled-BNhxrQT6.css",
+      "bytes": 1998,
+      "local_sha256": "6e846a85ec9c10234e340b4cdac7c0c6e641e353b05d051966cdd2a43049a9af"
+    },
+    {
+      "path": "mouse/css/main-D_SlLcAG.css",
+      "bytes": 102488,
+      "local_sha256": "9b18b81dcc684ed3e78f3773481637ef6d4ce33ba9dfc6581d139a39a71184ac"
+    },
+    {
+      "path": "mouse/css/plugin-BVwJO_6R.css",
+      "bytes": 9563,
+      "local_sha256": "963b81d066a9cd6d5a1bdc5bad04028baabb0b23dde68c359838e2fc939c4212"
+    },
+    {
+      "path": "mouse/css/tooltip-3FOMpSsP.css",
+      "bytes": 8712,
+      "local_sha256": "2b997ece933e10d07d21aa47f0f890f596969e9c7915cc33f53c0c5bfdbaf420"
+    },
+    {
+      "path": "mouse/index.html",
+      "bytes": 3025,
+      "local_sha256": "7cbdac82133a71e4fca6600d6ae11a1e5fc66f1e4609446b6589a891a9f10241"
+    },
+    {
+      "path": "mouse/js/_plugin-vue_export-helper-BDNMzG2s.js",
+      "bytes": 84,
+      "local_sha256": "27e87fe62aa760227b7529576953d8314891fd2aec28e0a3f03aece406f2d7d7"
+    },
+    {
+      "path": "mouse/js/button-DX8R50Zg.js",
+      "bytes": 7687,
+      "local_sha256": "b41e41c25645bdec4a99cb37b453118a3e855701242f68b0e82aa004367d5a99"
+    },
+    {
+      "path": "mouse/js/feedback-UaDASdB8.js",
+      "bytes": 9908,
+      "local_sha256": "6563f34b0639247a2e4620936e3c23783d980a77cb1295822b212aacc9b6f94c"
+    },
+    {
+      "path": "mouse/js/icon-DPqlPqW5.js",
+      "bytes": 2137,
+      "local_sha256": "bf588b56a5b7a589e2552cdb8cf5710cbd72fc42b56d3a72901bce66b892c1bb"
+    },
+    {
+      "path": "mouse/js/icons-xH12ywmk-CBDgcWLO.js",
+      "bytes": 296,
+      "local_sha256": "471bc6af5650d2eb4018089311d722d5eaf72e06c15901455ff7f148d9194a3b"
+    },
+    {
+      "path": "mouse/js/info-circle-filled-CZZUF6fT.js",
+      "bytes": 83530,
+      "local_sha256": "fb25b93333800f400582b5c018c59352ae51db08b77d220dbbc9943e0ef5a467"
+    },
+    {
+      "path": "mouse/js/locales-oS-ICJqT.js",
+      "bytes": 346981,
+      "local_sha256": "90475b00a3e95d27a40e2130d510528276d95624033a68008b9af27080c2751e"
+    },
+    {
+      "path": "mouse/js/main-g1gAi-8O.js",
+      "bytes": 126852,
+      "local_sha256": "946e950eb4eb92252431a93bfc39e0573ee480b864673ba2489393e351d136a5"
+    },
+    {
+      "path": "mouse/js/pinia-CpEVJ7Fd.js",
+      "bytes": 5928,
+      "local_sha256": "3f6afee8b7c9188d8b9ffa4d05c191b80bfaa9a739aabca5cbc8b912a1250b9a"
+    },
+    {
+      "path": "mouse/js/plugin-BlCGIqNm.js",
+      "bytes": 16195,
+      "local_sha256": "8e41292be35942a94e168aa296f335400ecfe265efc11f53430b874ce99a52d2"
+    },
+    {
+      "path": "mouse/js/rolldown-runtime-hePW80VL.js",
+      "bytes": 716,
+      "local_sha256": "580ad8c58061a4dde99bde0a56905e382f0568516ee2f5b84dbfb52085709021"
+    },
+    {
+      "path": "mouse/js/tooltip-DT2-CrgW.js",
+      "bytes": 35547,
+      "local_sha256": "558136c1794136d1cd696157a2779404c886aff978c09377553f6c3a6620424f"
+    },
+    {
+      "path": "mouse/js/useMouseShellFacade-CGj3PoG4.js",
+      "bytes": 148354,
+      "local_sha256": "650c7349440e68c98f042f9c5488356597c251990a2bf5ccab2bcdc637ab1b70"
+    },
+    {
+      "path": "mouse/js/utils-KjYPAfLh.js",
+      "bytes": 96494,
+      "local_sha256": "04726c0bd5c82c77e5c1ef5db97ad12827ac85dbc2b5f048c87d7dee3ea43eff"
+    },
+    {
+      "path": "mouse/js/vue-core-DcGVfXb0.js",
+      "bytes": 108827,
+      "local_sha256": "2bcc82097a09e7b324a492ce212bf0acc35a2f8437b45ae406cbb1e7fe0a3fb6"
+    },
+    {
+      "path": "mouse/js/vue-i18n-D8ls6IYw.js",
+      "bytes": 57897,
+      "local_sha256": "bc9e60b318621277bc1ec68effe17aebd2e4cf2542788a38777552a5203af6a5"
+    },
+    {
+      "path": "mouse/js/vue-router-DHzgdm1_.js",
+      "bytes": 22716,
+      "local_sha256": "81a933a2cb2e4d31a320676b84e0c5fb69665b41c36733513425e64d1a07d171"
+    },
+    {
+      "path": "mouse/miniLogo.png",
+      "bytes": 47951,
+      "local_sha256": "d60255b54fbe580b3a0a624d3c491cd97b9ba5bd6bc11c4740b5f33c869f7c9b"
+    },
+    {
+      "path": "mouse/preload-manifest.json",
+      "bytes": 2014,
+      "local_sha256": "d2031d8a7313e5536b78ef0913de47c3bd20a0052dbeb7ea0e82185ee20e38aa"
+    },
+    {
+      "path": "mouse/startup.css",
+      "bytes": 1563,
+      "local_sha256": "5b3a35787e049aa746be93c9a6ff237751cf15eed832a6f8afb1e3c33c8f0202"
+    }
+  ]
+}

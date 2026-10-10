@@ -1,0 +1,1 @@
+import{T as e,b as t,ft as n,pt as r,z as i}from"./vue-core-DcGVfXb0.js";var a=e({name:`IconFont`,__name:`IconFont`,props:{name:{},size:{},color:{}},setup(e){return(a,o)=>(i(),t(`i`,{class:n([`iconfont`,`icon-${e.name}`]),style:r({fontSize:e.size+`px`,color:e.color})},null,6))}});export{a as t};

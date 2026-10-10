@@ -1,0 +1,1 @@
+var e=(e,t)=>{let n=!1;for(let r=0;r<e.length;r++)for(let i=0;i<e[r].length;i++){if(e[r][i].keyValue!==t)continue;let{advancedKeys:a}=e[r][i];a.advancedType&&(n=!0)}return n},t=(e,t)=>{let n=!1,{advancedKeys:r}=e[t.row][t.col];return r.advancedType&&(n=!0),n};export{t as n,e as t};
